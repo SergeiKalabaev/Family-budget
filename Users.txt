@@ -19,5 +19,10 @@ das
 d
 as
 das
+<<<<<<< HEAD
 d
 >>>>>>> 5fbd4faafea9c3158a357267f741b0afe48af6c3
+=======
+dsad
+sadsa
+>>>>>>> d11ce52f4ab88edaab662e897e5cd445a5fd2a77
