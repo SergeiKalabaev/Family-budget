@@ -17,7 +17,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             LoadData();
-            
+            if ()
+                else;
         }
 
         private void LoadData()
